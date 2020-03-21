@@ -1,1 +1,4 @@
-theme: jekyll-theme-potato-hacker
+plugins:
+  - jekyll-remote-theme
+  
+remote_theme: benbalter/retlab

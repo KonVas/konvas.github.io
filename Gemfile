@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-theme-potato-hacker"
+gem "jekyll-remote-theme"
 gem "jekyll", "~> 3.8"
+gem "jekyll-include-cache"
