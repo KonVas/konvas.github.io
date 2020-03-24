@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem "github-pages", group: :jekyll_plugins
 
-gem "minima"
+gem "hacker"
 
 gem "jekyll-include-cache"
 
