@@ -1,12 +1,12 @@
 <!doctype html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title></title>
-        <link rel="stylesheet" href="/assets/css/styles.scss">
-    </head>
-    <body>
-        <nav>
+  <head>
+    <meta charset="utf-8">
+    <title>Classes in Sonic Arts</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    <nav>
     
       <a href="/" >
         Home
@@ -28,7 +28,7 @@
         Works
       </a>
     
-      <a href="/teaching.html" style="color: red;">
+      <a href="/teaching.html" style="color: blue;">
         Teaching
       </a>
     
@@ -36,20 +36,14 @@
         ICE
       </a>
     
+      <a href="writings.html" >
+        Writings
+      </a>
+    
   </nav>  
-         <div class="page page-">
-  <div class="row">
-    <div class="col-md-10 offset-md-1">
+    <h1 id="classes-in-sonic-arts">Classes in Sonic Arts</h1>
 
-    <h1 class="display-4"></h1>
-
-    <p>Here are the classes which I am rotating every semester:</p>
-
-<h2 id="audio-programming">Audio Programming</h2>
-<p>This class  is an overview of creating application for sound design and interactive performance using the state of the art programming language SuperCollider.</p>
-
-<h2 id="multimedia-design">Multimedia Design</h2>
-<p>This class is an overview of creating audio visual applications and hardware prototyping using a variety of best practice software development environments such as Processing, Arduino, and SuperCollider.</p>
+<p>Class rotation per semester as follows:</p>
 
 <h2 id="preparatory-studies-in-sonic-arts">Preparatory Studies in Sonic Arts</h2>
 <p>This class offers a preparation in Electroacoustic Music and Acousmatic composition, including very basic concepts of live Computer Music.</p>
@@ -57,106 +51,11 @@
 <h2 id="interactive-music">Interactive Music</h2>
 <p>This class is an overview of interactive and generative music using improvisation as method to create real time compositions. It elaborates in various performance paradigms including external interfaces/hardware devices, live coding, and generative systems.</p>
 
+<h2 id="audio-programming">Audio Programming</h2>
+<p>This class  is an overview of creating application for sound design and interactive performance using the state of the art programming language SuperCollider.</p>
 
-    </div>
-  </div>
-</div>
+<h2 id="multimedia-design">Multimedia Design</h2>
+<p>This class is an overview of creating audio visual applications and hardware prototyping using a variety of best practice software development environments such as Processing, Arduino, and SuperCollider.</p>
 
-        <style>
-.videoWrapper {
-	position: relative;
-	padding-bottom: 56.333%;
-	height: 0;
-    background: black;
-}
-.videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-    border: 0;
-}    
-</style>
-
-<script>
-function get_youtube_id(url) {
-    var p = /^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})(?:\S+)?$/;
-    return (url.match(p)) ? RegExp.$1 : false;
-}
-function vimeo_embed(url,el) {
-    var id = false;
-    $.ajax({
-      url: 'https://vimeo.com/api/oembed.json?url='+url,
-      async: true,
-      success: function(response) {
-        if(response.video_id) {
-          id = response.video_id;
-          if(url.indexOf('autoplay=1') !== -1) var autoplay=1; else var autoplay=0;
-          if(url.indexOf('loop=1') !== -1) var loop=1; else var loop=0;
-          var theInnerHTML = '<div class="videoWrapper"><iframe src="https://player.vimeo.com/video/'+id+'/?byline=0&title=0&portrait=0';
-          if(autoplay==1) theInnerHTML += '&autoplay=1';
-          if(loop==1) theInnerHTML += '&loop=1';
-          theInnerHTML += '" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>'; 
-          el.innerHTML = theInnerHTML;
-        }
-      }
-    });
-}
-function video_embed() {
-    var p = document.getElementsByTagName('p');
-    for(var i = 0; i < p.length; i++) {
-        //check if this is an external url (that starts with https:// or http://
-        if (p[i].innerHTML.indexOf("http://") == 0 ||
-            p[i].innerHTML.indexOf("https://") == 0) {
-            var youtube_id = get_youtube_id(p[i].innerHTML);
-            if(youtube_id) {
-                if(p[i].innerHTML.indexOf('autoplay=1') !== -1) var autoplay=1; else var autoplay=0;
-                if(p[i].innerHTML.indexOf('loop=1') !== -1) var loop=1; else var loop=0;
-                var theInnerHTML = '<div class="videoWrapper"><iframe width="720" height="420" src="https://www.youtube.com/embed/' + youtube_id + '?rel=0&showinfo=0';
-                if(autoplay==1) theInnerHTML += '&autoplay=1';
-                if(loop==1) theInnerHTML += '&loop=1&playlist='+youtube_id+'&version=3';
-                if(p[i].innerHTML.indexOf('start=') !== -1) theInnerHTML += '&start='+p[i].innerHTML.substring(p[i].innerHTML.indexOf('start=')+6);
-                theInnerHTML += '" frameborder="0" allowfullscreen></iframe></div>';
-                p[i].innerHTML = theInnerHTML;
-            }
-            if(p[i].innerHTML.indexOf('vimeo.com') !== -1) {
-                //ask vimeo for the id and place the embed
-                vimeo_embed(p[i].innerHTML,p[i]);
-            }
-        }
-    }
-}
-video_embed();
-
-function mp3_embed() {
-    var p = document.getElementsByTagName('p');
-    for(var i = 0; i < p.length; i++) {
-        if(p[i].innerHTML.indexOf('.mp3') !== -1) {
-            var str = p[i].innerHTML.split('?');
-            if(str.length == 1) str[1] = '';
-            var str1 = str[1];
-            str1 = str1.replace('&','').replace('&','');
-            str1 = str1.replace('autoplay=1','').replace('autoplay=0','');
-            str1 = str1.replace('loop=1','').replace('loop=0','');
-            str1 = str1.replace('controls=0','').replace('controls=1','');
-
-            if (str[0].lastIndexOf('.mp3', str[0].length - 4) === str[0].length - 4 && str1.length == 0) {
-                if(str[1].indexOf('autoplay=1') !== -1) var autoplay=1; else var autoplay=0;
-                if(str[1].indexOf('loop=1') !== -1) var loop=1; else var loop=0;
-                if(str[1].indexOf('controls=0') !== -1) var controls=0; else var controls=1;
-                var newInnerHTML = '<audio';
-                if(autoplay==1) newInnerHTML += ' autoplay';
-                if(loop==1) newInnerHTML += ' loop';
-                if(controls==1) newInnerHTML += ' controls';
-                newInnerHTML += '><source src="'+str[0]+'" type="audio/mpeg">Your browser does not support the audio element.</audio>';
-                p[i].innerHTML = newInnerHTML;
-            }
-        }
-    }
-}
-mp3_embed();
-</script>
-
-    </body>
+  </body>
 </html>

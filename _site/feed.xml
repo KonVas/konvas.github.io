@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-24T13:49:18+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">konvas.github.io</title><entry><title type="html">Online Resources</title><link href="http://localhost:4000/2020/03/19/online-resources.html" rel="alternate" type="text/html" title="Online Resources" /><published>2020-03-19T00:00:00+03:00</published><updated>2020-03-19T00:00:00+03:00</updated><id>http://localhost:4000/2020/03/19/online-resources</id><content type="html" xml:base="http://localhost:4000/2020/03/19/online-resources.html">&lt;h1 id=&quot;online-resources-from-organizing-projects-to-telematic-performances&quot;&gt;Online Resources from organizing projects to telematic performances&lt;/h1&gt;
+&lt;p&gt;Given the recent turn towards the need of online platforms for multifunctional organization, I outline some of the resources that I have found to be useful, this is not an exhaustive list but rather a suggestion to some platforms that seem to work flawlessly in my workflow.&lt;/p&gt;
+
+&lt;h2 id=&quot;an-outline-of-resources-for-telematic-performances&quot;&gt;An outline of resources for telematic performances&lt;/h2&gt;
+&lt;p&gt;Telematic performance of computer music, a paradigm of isolated computer music performance par excellence. The performers are remote to each other, instead of being in the same stage they can exchange and manipulate bits of code and algorithmic instructions that are executed by a central or a remote server/sound synthesis engine.&lt;/p&gt;
+
+&lt;p&gt;Here is some information to material that I found interesting for online/remote performances and stream cast resources:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Blackhole [^1] (https://github.com/ExistentialAudio/BlackHole) or “brew cask install blackhole”.&lt;/li&gt;
+  &lt;li&gt;Multi Output Device (MacOS) (https://github.com/ExistentialAudio/BlackHole/wiki/Multi-Output-Device).&lt;/li&gt;
+  &lt;li&gt;Remote Live Coding performers using “Extramuros” (https://github.com/dktr0/extramuros).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;generic-platforms-for-online-organization-and-assignment-allocation-in-projects&quot;&gt;Generic platforms for online organization and assignment allocation in projects.&lt;/h2&gt;
+&lt;p&gt;Some interesting online platforms for project collaboration and collective work organization.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Trello (https://trello.com/). Project organization with a handy TODO allocation amongst members of the project.&lt;/li&gt;
+  &lt;li&gt;Gitter (https://g.co/kgs/UmwF86). More oriented towards code integration and development process of software, hooks on a GitHub repository.&lt;/li&gt;
+  &lt;li&gt;Slack (https://g.co/kgs/GwLcRE). Open to any use.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[^1] Supports multi-channel function.&lt;/p&gt;</content><author><name>Konstantinos</name></author><summary type="html">Online Resources from organizing projects to telematic performances Given the recent turn towards the need of online platforms for multifunctional organization, I outline some of the resources that I have found to be useful, this is not an exhaustive list but rather a suggestion to some platforms that seem to work flawlessly in my workflow.</summary></entry></feed>

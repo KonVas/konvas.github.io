@@ -245,9 +245,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.8)
+  jekyll-feed (~> 0.12)
   jekyll-include-cache
-  jekyll-remote-theme
+  jekyll-seo-tag (~> 2.6)
+  minima
 
 BUNDLED WITH
    2.1.4

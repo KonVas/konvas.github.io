@@ -1,7 +1,11 @@
+---
+Title: ICE
+layout: default
+---
+
 # Istanbul Coding Ensemble
 
-## Bio of the project
-ICE is the home laptop ensemble of ITU/MIAM using live coding and just in time programming techniques. ICE performances focus on using improvisation as impetus to build real time dialogues among its performers using real time networked music systems. 
+ICE laptop ensemble was founded on 2018 formed by Konstantinos Vasilakos and postgraduate students of ITU/MIAM, using live coding and networked music systems. ICE performances focus on using improvisation as impetus to build real time dialogues among its performers as a means to create impromptu sonic outcomes using dynamic coding techniques.
 
-### Groups Milestones
-- In 2018 the formation of the group heralded the inauguration of the Holly Church of Kairotic Coding in the Algotteranean region.
+## Milestones
+- [x] In 2018 the formation of the group heralded the inauguration of the Holly Church of Kairotic Coding in the Algotteranean region.
