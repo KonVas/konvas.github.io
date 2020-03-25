@@ -1,6 +1,7 @@
 ---
 Title: works
 layout: default
+permalink: /works/
 ---
 
 # Works

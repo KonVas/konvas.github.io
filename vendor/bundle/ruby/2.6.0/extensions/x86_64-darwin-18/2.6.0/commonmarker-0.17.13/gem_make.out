@@ -1,11 +1,11 @@
-current directory: /Users/konstantinos/Dev/konvas.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
-/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200325-2954-11pf4h1.rb extconf.rb
+current directory: /Users/konstantinos/myblog/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
+/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200325-25536-1g7402y.rb extconf.rb
 creating Makefile
 
-current directory: /Users/konstantinos/Dev/konvas.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/konstantinos/myblog/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" clean
 
-current directory: /Users/konstantinos/Dev/konvas.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/konstantinos/myblog/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR="
 compiling arena.c
 compiling autolink.c
@@ -116,6 +116,6 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.bundle
 
-current directory: /Users/konstantinos/Dev/konvas.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/konstantinos/myblog/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20200325-2954-1bsatv9/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20200325-25536-1fv2hnn/commonmarker

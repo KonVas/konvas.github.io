@@ -1,6 +1,7 @@
 ---
-Title: Writings
 layout: default
+title: Writings
+permalink: /writings/
 ---
 
 # Latest Articles

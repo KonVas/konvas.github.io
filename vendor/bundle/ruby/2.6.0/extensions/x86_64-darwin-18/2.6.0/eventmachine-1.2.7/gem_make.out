@@ -1,16 +1,16 @@
-current directory: /Users/konstantinos/Dev/konvas.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
-/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200325-2954-ohzuo.rb extconf.rb
+current directory: /Users/konstantinos/myblog/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200325-19761-1stt4k5.rb extconf.rb
 creating Makefile
 
-current directory: /Users/konstantinos/Dev/konvas.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /Users/konstantinos/myblog/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" clean
 
-current directory: /Users/konstantinos/Dev/konvas.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /Users/konstantinos/myblog/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR="
 compiling mapper.cpp
 compiling rubymain.cpp
 linking shared-object fastfilereaderext.bundle
 
-current directory: /Users/konstantinos/Dev/konvas.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /Users/konstantinos/myblog/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20200325-2954-17gstq0
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20200325-19761-wqwekv
