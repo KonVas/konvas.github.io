@@ -10,14 +10,16 @@ Given the recent turn towards the need of online platforms for multifunctional o
 Telematic performance of computer music, a paradigm of isolated computer music performance par excellence. The performers are remote to each other, instead of being in the same stage they can exchange and manipulate bits of code and algorithmic instructions that are executed by a central or a remote server/sound synthesis engine.
 
 Here is some information to material that I found interesting for online/remote performances and stream cast resources:
-- Blackhole [^1] (https://github.com/ExistentialAudio/BlackHole) or “brew cask install blackhole”.
-- Multi Output Device (MacOS) (https://github.com/ExistentialAudio/BlackHole/wiki/Multi-Output-Device).
-- Remote Live Coding performers using “Extramuros” (https://github.com/dktr0/extramuros).
+- [Blackhole](https://github.com/ExistentialAudio/BlackHole) if you have Brew installed in your system you may run this instead “brew cask install blackhole”.
+- [Multi Output Device (MacOS) guide](https://github.com/ExistentialAudio/BlackHole/wiki/Multi-Output-Device).
+- Remote Live Coding performers using [Extramuros](https://github.com/dktr0/extramuros).
 
 ## Generic platforms for online organization and assignment allocation in projects.
 Some interesting online platforms for project collaboration and collective work organization.
-- Trello (https://trello.com/). Project organization with a handy TODO allocation amongst members of the project.
-- Gitter (https://g.co/kgs/UmwF86). More oriented towards code integration and development process of software, hooks on a GitHub repository.
-- Slack (https://g.co/kgs/GwLcRE). Open to any use.
+- [Trello](https://trello.com/). Project organization with a handy TODO allocation amongst members of the project.
+- [Gitter](https://g.co/kgs/UmwF86). More oriented towards code integration and development process of software, hooks on a GitHub repository.
+- [Slack](https://g.co/kgs/GwLcRE). Open to any use.
 
-[^1] Supports multi-channel function.
+## Online IDE's
+- [Microsoft Visual Code & Live Share extension](https://code.visualstudio.com/download)
+- [Etherpad](https://etherpad.org/) (not tested).

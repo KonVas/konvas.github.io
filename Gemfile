@@ -1,12 +1,5 @@
 source 'https://rubygems.org'
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 3.5"
 
-gem "hacker"
-
-gem "jekyll-include-cache"
-
-group :jekyll_plugins do
-    gem "jekyll-feed", "~> 0.12"
-    gem "jekyll-seo-tag", "~> 2.6"
-  end
+gem "minimal-mistakes-jekyll"
