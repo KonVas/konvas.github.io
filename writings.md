@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Writings | Publications
+title: Writings
 permalink: /writings/
 ---
 
-# Latest Articles
+# Latest Articles and Presentation
 2020. Konstantinos n/a Vasilakos, Scott Wilson, Thomas McCauley, Tsun Winston Yeung, Emma Margetson, and Milad Khosravi Mardakheh. Sonification of High Energy Physics Data Using Live Coding and Web Based Interfaces. Proceedings of the International Conference on New Interfaces for Musical Expression, Birmingham City University, pp. 388–393. Available at: ![paper](https://www.nime.org/proceedings/2020/nime2020_paper76.pdf)
 
 2019. Konstantinos Vasilakos. _Emerging Dark Matter Through Diverse Sonification Practices._ - Proceedings of the International Music and Sciences Symposium. ITU/TDMK, Istanbul, Turkey.
