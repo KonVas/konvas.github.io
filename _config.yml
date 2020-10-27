@@ -20,14 +20,14 @@
 
 title: Konstantinos Vasilakos
 email: konstantinos.vasilakos@gmail.com
-description: Live Coding, Sonic Arts, SuperCollider
+description: Sound/Computer Music/Digital Arts and Interactive Media
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://konvas.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  KonVas
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
