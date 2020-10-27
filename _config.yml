@@ -27,7 +27,7 @@ url: "https://konvas.github.io" # the base hostname & protocol for your site, e.
 github_username:  KonVas
 
 # Build settings
-theme: jekyll-theme-architect
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
 
