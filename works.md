@@ -10,13 +10,13 @@ _A list of past and ongoing projects_
 
 <iframe src="https://player.vimeo.com/video/395138259" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-2020 Lick the toad,[work in progress](https://konvas.github.io/lick-the-toad/).
+2020 Lick the toad [work in progress](https://konvas.github.io/lick-the-toad/).
 
 2020.	Map & Fold Festival, Schlachthaus Tübingen, Germany. Performance with [BEER](https://www.birmingham.ac.uk/facilities/ea-studios/research/beer.aspx) [video](https://www.youtube.com/watch?v=tn0N1R2Ej3Y&list=PLiCZTYIqSUAb4gVwlbsaXl9bKT-V3xRoG&index=3&t=437s).
 
 19 Aug, 2020. 24 hours of live performances with tidalcycles [video](https://www.youtube.com/watch?v=qBU_bkPHt-I&list=PLiCZTYIqSUAb4gVwlbsaXl9bKT-V3xRoG&index=6&t=1258s).
 
-2020.	NIME2020 Royal Birmingham Conservatoire [video](https://www.youtube.com/watch?v=4C8E559Pc30&list=PLiCZTYIqSUAb4gVwlbsaXl9bKT-V3xRoG&index=1&t=197s).
+2020	NIME2020 Royal Birmingham Conservatoire [video](https://www.youtube.com/watch?v=4C8E559Pc30&list=PLiCZTYIqSUAb4gVwlbsaXl9bKT-V3xRoG&index=1&t=197s).
 
 1 March, 2019 Chunk Noreace, Arkaoda, Istanbul
 
