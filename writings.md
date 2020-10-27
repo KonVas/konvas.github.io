@@ -21,4 +21,4 @@ permalink: /writings/
 
 2013. From Code to Tape Presented in SoundThought 2013, Contemporary Centre of the Arts, Glasgow, UK (2014)
 
-2012. Humanising Technology: interacting with sonic material using haptic controllers. Presented at Keele Humanities Symposium 2012, and at “Live Interfaces: Performance, Art, Music 2012” Leeds University
+2012. Humanising Technology: interacting with sonic material using haptic controllers. Presented at Keele Humanities Symposium 2012, and at “Live Interfaces: Performance, Art, Music 2012” Leeds University, UK
