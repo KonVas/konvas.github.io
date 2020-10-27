@@ -5,4 +5,4 @@
 layout: default
 ---
 
-Words in Computer Music...
+![](/images/me-walking-installation.jpg)
