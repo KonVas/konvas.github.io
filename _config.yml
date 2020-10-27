@@ -22,12 +22,12 @@ title: Konstantinos Vasilakos
 email: konstantinos.vasilakos@gmail.com
 description: Sound/Computer Music/Digital Arts and Interactive Media
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://konvas.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://konvas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  KonVas
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
