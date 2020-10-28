@@ -24,18 +24,15 @@ New Instrument for Musical Expression 2020 Royal Conservatory of Birmingham
 
 An Introduction to IPSOS, the Interactive Physics Sonification System
 1. [Istanbul Tech University Summer School 2019](https://liseyazokulu.itu.edu.tr/program/ogretim-kadrosu/konstantinos-vasilakos)
-   [Workshop resources](https://github.com/KonVas/ITUSummerSchool2019)
-   
+   [Workshop resources](https://github.com/KonVas/ITUSummerSchool2019)   
 2. [Sonar Festival 2019](https://sonaristanbul.com/tr/2019/Sanatçılar/mini-lecture-sonifying-dark-matter-by-konstantinos-vasilakos)
-   
-3. [Creations 2018](http://creations2018.ea.gr/workshops-for-teachers/#1539361903687-94a3efe3-4865)
-4. 20 Dec 2018 Bilgi University 
-5. 2018 Bilkent University 
-6. 9 April 2019 Sabanci University
+3. 9 April 2019 Sabanci University
+4. 20 Dec 2018 Bilgi University
+5. 2/3 Nov 2018 [Creations 2018](http://creations2018.ea.gr/workshops-for-teachers/#1539361903687-94a3efe3-4865)
+6. 2018 Bilkent University 
 
-[HackerSpace Athens 2017](https://github.com/KonVas/creative-coding)
-
-[Live Coding Corfu University Audio Visual Arts 2016](https://github.com/KonVas/Ionio-liveCode-workshop)
+- [HackerSpace Athens 2017](https://github.com/KonVas/creative-coding)
+- [Live Coding Corfu University Audio Visual Arts 2016](https://github.com/KonVas/Ionio-liveCode-workshop)
 
 ## Music experimentations with [new media](https://energyforlife.gr/2016/en/collaborators/power-of-people-pop-en/#.X5kogb1R3OQ)
 During 2015-2016 I delivered a series of workshops after receiving a commision by the NPO "Energy for Life Travels" to visit an array of primary and high schools in rural Greece under the aegis of the Republic of Greece and the European Parliament, the destinations are listed below:
