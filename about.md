@@ -13,7 +13,7 @@ Some projects include Dark Matter, a live coding project using particle collisio
 
 He holds a PhD in Music from Keele University in the UK, and a Masters degree from the Utrecht School of the Arts, in the Netherlands. His works have been presented in France, The Netherlands, Germany, Czech Republic, Greece, Switzerland, Turkey, and the United Kingdom. He has collaborated with leading research centers such as CERN, in Switzerland, and the Laboratoire ACROE/ICA, at the University of Grenoble, in France. You may download a copy of my CV from this [link](./files/kv_one_page_cv-project-links.pdf)
 
-![](me-algo-photo.png)
+![](./images/me-algo-photo.png)
 _I am actively supporting and contributing in the [Algorave](https://algorave.com) community, of Istanbul and abroad; I sometimes perform under the alias which goes as Chunk No_Reace._
 
 # Chunk's Bio
