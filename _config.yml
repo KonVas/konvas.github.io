@@ -27,8 +27,9 @@ url: "https://konvas.github.io" # the base hostname & protocol for your site, e.
 github_username:  KonVas
 
 # Build settings
+logo: ./images/k-v.jpg
 google_analytics: G-GR7FEB1NVW
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
