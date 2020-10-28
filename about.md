@@ -16,5 +16,7 @@ He holds a PhD in Music from Keele University in the UK, and a Masters degree fr
 
 ![](./images/me-algo-photo.png)
 
-_I am actively supporting and contributing in the [Algorave](https://algorave.com) community, of Istanbul and abroad; I sometimes perform under the alias which goes as Chunk No_Reace._
+_I am actively supporting and contributing in the [Algorave](https://algorave.com) community, of Istanbul and abroad; I sometimes perform under the alias which goes as Chunk No_reace._
+
+## Chunk No_reace
 Chunk No_reace was educated in the realm of the oligarchy of pitch and rhythm of understandable music, albeit soon enough he found himself abiding with the rules of ungraspable and complex orders ingrained in electronic circuits, silicon boards and interactive interfaces operated by hardware paraphernalia. He creates post electro-acoustic music using hitherto available computer music systems within the milieu of digital arts Nowadays, he enjoys hacking code in front of the audience by altering temporality of musical algorithms while at run, aka live coding.
