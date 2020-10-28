@@ -7,16 +7,16 @@ permalink: /teaching/
 # Teaching
 My curricullum involves digital arts and interactive media, some of my courses' resources are offered as open source at the following links:
 
-[Audio Programming using SuperCollider](https://github.com/KonVas/SuperMiam)
+- [Audio Programming using SuperCollider](https://github.com/KonVas/SuperMiam)
 
-[Multimedia Design](https://github.com/KonVas/Multimedia-Design-MYE-MYL)
+- [Multimedia Design](https://github.com/KonVas/Multimedia-Design-MYE-MYL)
 
-Netoworked Music performance Research
+Networked Music Systems research
 - [Istanbul Coding Ensemble](https://konvas.github.io/ice/)
 - [resources](https://github.com/KonVas/Istanbul-Coding-Ensemble)
 
 # Workshops Offered
-I have delivered an array of workshop disseminating my personal research and creative outcomes to the public outlined as follows:
+I have delivered an array of workshops disseminating my personal research and creative outcomes to the public outlined as follows:
 
 New Instrument for Musical Expression 2020 Royal Conservatory of Birmingham
 - [NIME2020 SuperCollider Workshop](https://nime2020.bcu.ac.uk/supercollidernime2020/)
