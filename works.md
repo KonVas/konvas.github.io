@@ -51,7 +51,7 @@ _A list of past and ongoing projects_
 
 - 2015 [Fretted](http://www.eastn.eu/EASTNPiece/fretted), European Art-Science-Technology Network, Polytechnic Institute of Grenoble, France.
 
-- 2014. Artist in residence, [_Tangibility_](https://vimeo.com/album/2920585) Ionian University, Corfu, GR - Grenoble, France (Supported by the European Art-Science-Technology Network ([EASTN](http://www.eastn.eu))).
+- 2014 Artist in residence, [_Tangibility_](https://vimeo.com/album/2920585) Ionian University, Corfu, GR - Grenoble, France (Supported by the European Art-Science-Technology Network ([EASTN](http://www.eastn.eu))).
 
 - 2014 [Power of the People](https://konstantinosvasilakos.wordpress.com/sounds/pop/), Keele Gallery, UK.
 
