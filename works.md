@@ -24,7 +24,7 @@ _A list of past and ongoing projects_
 
 16 Feb, 2019 Chunk No_reace, Algorave, Pans Social House, Istanbul [link](https://www.facebook.com/events/338124093462507/)
 
-29 Nov, 2018 Chunk No_reace, Algorave, Salt Beyoglu, Istanbul [](https://saltonline.org/tr/1906/uzun-perembe-kasm-2018?agenda)
+29 Nov, 2018 Chunk No_reace, Algorave, Salt Beyoglu, Istanbul [link](https://saltonline.org/tr/1906/uzun-perembe-kasm-2018?agenda)
 
 2018 Performance of Dark Matter with BEER at [Sound Festival](https://sound-scotland.co.uk)
 
