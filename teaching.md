@@ -31,6 +31,7 @@ An Introduction to IPSOS, the Interactive Physics Sonification System
 5. 2/3 Nov 2018 [Creations 2018](http://creations2018.ea.gr/workshops-for-teachers/#1539361903687-94a3efe3-4865)
 6. 2018 Bilkent University 
 
+## Creative Coding and Audio - Visual Workshops
 - [HackerSpace Athens 2017](https://github.com/KonVas/creative-coding)
 - [Live Coding Corfu University Audio Visual Arts 2016](https://github.com/KonVas/Ionio-liveCode-workshop)
 
