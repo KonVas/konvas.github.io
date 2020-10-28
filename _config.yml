@@ -27,7 +27,7 @@ url: "https://konvas.github.io" # the base hostname & protocol for your site, e.
 github_username:  KonVas
 
 # Google analytics
-google_analytics: G-GR7FEB1NVW
+google_analytics: 'G-Q5YXQDX16G'
 
 # Build settings
 logo: ./images/k-v.png
