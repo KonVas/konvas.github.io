@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 # Teaching
-My curricullum involves digital arts and interactive media, some of my courses offered are listed as follows:
+My curricullum involves digital arts and interactive media, some of my courses' resources are offered as open source at the following links:
 
 [Audio Programming using SuperCollider](https://github.com/KonVas/SuperMiam)
 
