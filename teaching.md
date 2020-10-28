@@ -7,9 +7,9 @@ permalink: /teaching/
 # Teaching
 My curricullum involves digital arts and interactive media, some of my courses' resources are offered as open source at the following links:
 
-- [Audio Programming using SuperCollider](https://github.com/KonVas/SuperMiam)
+- [Audio Programming](https://github.com/KonVas/SuperMiam) using [SuperCollider](https://supercollider.github.io) state-of-the-art audio programming platform.
 
-- [Multimedia Design](https://github.com/KonVas/Multimedia-Design-MYE-MYL)
+- [Multimedia Design](https://github.com/KonVas/Multimedia-Design-MYE-MYL) Audio-Visual design and hardware prototyping for interactive installations.
 
 Networked Music Systems research
 - [Istanbul Coding Ensemble](https://konvas.github.io/ice/)
