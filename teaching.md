@@ -11,6 +11,9 @@ My curricullum involves digital arts and interactive media, some of my courses' 
 
 [Multimedia Design](https://github.com/KonVas/Multimedia-Design-MYE-MYL)
 
+Netoworked Music performance [Istanbul Coding Ensemble](https://konvas.github.io/ice/)
+- [resources](https://github.com/KonVas/Istanbul-Coding-Ensemble)
+
 # Workshops Offered
 I have delivered an array of workshop disseminating my personal research and creative outcomes to the public outlined as follows:
 
