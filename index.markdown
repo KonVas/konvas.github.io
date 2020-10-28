@@ -4,5 +4,3 @@
 
 layout: default
 ---
-
-![](/images/me-walking-installation.jpg)
