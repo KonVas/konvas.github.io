@@ -6,7 +6,7 @@ permalink: /about/
 
 _This page tells you a little bit about me._
 
-![](./images/me-walking-installation.jpg) ![](./images/me-algo-photo.png)
+![](./images/me-algo-photo.png)
 
 Konstantinos Vasilakos is an interdisciplinary artist working in the millieu of digital art and interactive media, and Electroacoustic Music. He is based in Istanbul and leads the Sonic Arts postgraduate studies path at the Center for Advanced Studies in Music [MIAM](https://www.miam.itu.edu.tr), in Istanbul Technical University. His [courses](https://konvas.github.io/teaching/) focus on the creation of interactive music, sound installations and algorithmic/non-linear composition. His research interests include sonification, new instruments for musical expression and live-coding with networked music systems. 
 
@@ -15,6 +15,9 @@ Some projects include Dark Matter, a live coding project with particle collision
 He has a PhD in music from Keele University in the UK and a master's degree from Utrecht School of Arts in the Netherlands. Some of his works are presented in France, the Netherlands, Germany, Czech Republic, Greece, Switzerland, Turkey and United Kingdom, and he has collaborated with leading research centers such as CERN in Switzerland and the Laboratoire ACROE/ICA at the University of Grenoble in France.
 
 ## Chunk No_reace
+<iframe src="https://player.vimeo.com/video/395138259" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+_latest (physical) musical adduce of Chunk No_reace in Arkaoda, Istanbul
+
 I actively support and contribute to the community [Algorave] (https://algorave.com); sometimes I perform under the pseudonym Chunk No_reace. Chunk No_reace was educated in the oligarchy of pitch and rhythm and other requirements of intelligible music, but soon found himself caught up in the rules of incomprehensible and complex orders deeply rooted in electronic circuits, silicon circuit boards and hardware devices. He creates post-electro-acoustic music using hitherto available computer music systems. Nowadays, he enjoys hacking code in front of audiences by changing the temporality of musical algorithms _on the fly_, also known as live-coding.
 
 For a comprehensive CV click [here](./files/kv_one_page_cv-project-links.pdf)
