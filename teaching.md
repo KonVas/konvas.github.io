@@ -13,9 +13,10 @@ My curricullum involves digital arts and interactive media, some of my courses o
 
 # Workshops Offered
 I have delivered an array of workshop disseminating my personal research and creative outcomes to the public outlined as follows:
-New Instrument for Musical Expression
-[NIME2020 SuperCollider Workshop](https://nime2020.bcu.ac.uk/supercollidernime2020/)
-[Workshop resources](https://github.com/KonVas/SC-NIME2020)
+
+New Instrument for Musical Expression 2020 Royal Conservatory of Birmingham
+- [NIME2020 SuperCollider Workshop](https://nime2020.bcu.ac.uk/supercollidernime2020/)
+- [Workshop resources](https://github.com/KonVas/SC-NIME2020)
 
 An Introduction to IPSOS, the Interactive Physics Sonification System
 1. [Istanbul Tech University Summer School 2019](https://liseyazokulu.itu.edu.tr/program/ogretim-kadrosu/konstantinos-vasilakos)
@@ -24,10 +25,8 @@ An Introduction to IPSOS, the Interactive Physics Sonification System
 2. [Sonar Festival 2019](https://sonaristanbul.com/tr/2019/Sanatçılar/mini-lecture-sonifying-dark-matter-by-konstantinos-vasilakos)
    
 3. [Creations 2018](http://creations2018.ea.gr/workshops-for-teachers/#1539361903687-94a3efe3-4865)
-4. Bilgi University 2018
-
-5. Bilkent University 2018
-
+4. 20 Dec 2018 Bilgi University 
+5. 2018 Bilkent University 
 6. 9 April 2019 Sabanci University
 
 [HackerSpace Athens 2017](https://github.com/KonVas/creative-coding)
