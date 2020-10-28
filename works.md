@@ -54,7 +54,7 @@ _A list of past and ongoing projects_
 
 2014 [Power of the People](https://konstantinosvasilakos.wordpress.com/sounds/pop/), Keele Gallery, UK.
 
-2014 [Ataraxia](https://vimeo.com/87510975), International Computer Music Conference (ICMC,SMC,2014), Athens, Greece.
+2014 [Ataraxia](https://vimeo.com/87510975), International Computer Music Conference (ICMC,SMC,2014), Athens, Greece [ICMC program](http://www.jonweinel.com/Programmes/ICMC_prog_2014.pdf)
 
 2013 [IAEwNoise](http://www.soundthought.co.uk/journal2014/konstantinos-vasilakos-live-coding/), “SoundThought” Glasgow University, UK.
 
