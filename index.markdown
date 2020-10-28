@@ -5,4 +5,4 @@
 layout: default
 ---
 
-![](/images/me-walking-installation.jpg =250x)
+![](/images/me-walking-installation.jpg)
