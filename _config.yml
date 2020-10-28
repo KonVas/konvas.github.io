@@ -28,7 +28,7 @@ github_username:  KonVas
 
 # Build settings
 google_analytics: G-GR7FEB1NVW
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
