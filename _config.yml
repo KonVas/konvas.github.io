@@ -20,7 +20,7 @@
 
 title: Konstantinos Vasilakos
 email: konstantinos.vasilakos{@}gmail.com
-description: Composer, programmer, performer
+description: Composer<programmer>performer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://konvas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -33,7 +33,7 @@ google_analytics: 'G-Q5YXQDX16G'
 logo: ./images/k-v.png
 theme: jekyll-theme-hacker
 plugins:
-  - jekyll-feed
+  - jekyll-scholar
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,3 +54,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/cd
+
+scholar:
+  style: apa6
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: bibliography.bib
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"

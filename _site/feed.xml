@@ -1,26 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-25T21:15:32+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Konstantinos Vasilakos</title><subtitle>Live Coding, Sonic Arts, SuperCollider</subtitle><entry><title type="html">online-resources</title><link href="http://localhost:4000/jekyll/update/2020/03/25/online-resources.html" rel="alternate" type="text/html" title="online-resources" /><published>2020-03-25T18:53:07+03:00</published><updated>2020-03-25T18:53:07+03:00</updated><id>http://localhost:4000/jekyll/update/2020/03/25/online-resources</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/03/25/online-resources.html">&lt;h1 id=&quot;online-resources-from-organizing-projects-to-telematic-performances&quot;&gt;Online Resources from organizing projects to telematic performances&lt;/h1&gt;
-&lt;p&gt;Given the recent turn towards the need of online platforms for multifunctional organization, I outline some of the resources that I have found to be useful, this is not an exhaustive list but rather a suggestion to some platforms that seem to work flawlessly in my workflow.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-31T22:05:33+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Konstantinos Vasilakos</title><subtitle>Composer&lt;programmer&gt;performer</subtitle><entry><title type="html">online-resources</title><link href="http://localhost:4000/jekyll/update/2020/03/25/online-resources.html" rel="alternate" type="text/html" title="online-resources" /><published>2020-03-25T18:53:07+03:00</published><updated>2020-03-25T18:53:07+03:00</updated><id>http://localhost:4000/jekyll/update/2020/03/25/online-resources</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/03/25/online-resources.html"># Online Resources from organizing projects to telematic performances
+Given the recent turn towards the need of online platforms for multifunctional organization, I outline some of the resources that I have found to be useful, this is not an exhaustive list but rather a suggestion to some platforms that seem to work flawlessly in my workflow.
 
-&lt;h2 id=&quot;an-outline-of-resources-for-telematic-performances&quot;&gt;An outline of resources for telematic performances&lt;/h2&gt;
-&lt;p&gt;Telematic performance of computer music, a paradigm of isolated computer music performance par excellence. The performers are remote to each other, instead of being in the same stage they can exchange and manipulate bits of code and algorithmic instructions that are executed by a central or a remote server/sound synthesis engine.&lt;/p&gt;
+## An outline of resources for telematic performances
+Telematic performance of computer music, a paradigm of isolated computer music performance par excellence. The performers are remote to each other, instead of being in the same stage they can exchange and manipulate bits of code and algorithmic instructions that are executed by a central or a remote server/sound synthesis engine.
 
-&lt;p&gt;Here is some information to material that I found interesting for online/remote performances and stream cast resources:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ExistentialAudio/BlackHole&quot;&gt;Blackhole&lt;/a&gt; if you have Brew installed in your system you may run this instead “brew cask install blackhole”.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ExistentialAudio/BlackHole/wiki/Multi-Output-Device&quot;&gt;Multi Output Device (MacOS) guide&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Remote Live Coding performers using &lt;a href=&quot;https://github.com/dktr0/extramuros&quot;&gt;Extramuros&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+Here is some information to material that I found interesting for online/remote performances and stream cast resources:
+- [Blackhole](https://github.com/ExistentialAudio/BlackHole) if you have Brew installed in your system you may run this instead “brew cask install blackhole”.
+- [Multi Output Device (MacOS) guide](https://github.com/ExistentialAudio/BlackHole/wiki/Multi-Output-Device).
+- Remote Live Coding performers using [Extramuros](https://github.com/dktr0/extramuros).
 
-&lt;h2 id=&quot;generic-platforms-for-online-organization-and-assignment-allocation-in-projects&quot;&gt;Generic platforms for online organization and assignment allocation in projects.&lt;/h2&gt;
-&lt;p&gt;Some interesting online platforms for project collaboration and collective work organization.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt;. Project organization with a handy TODO allocation amongst members of the project.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://g.co/kgs/UmwF86&quot;&gt;Gitter&lt;/a&gt;. More oriented towards code integration and development process of software, hooks on a GitHub repository.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://g.co/kgs/GwLcRE&quot;&gt;Slack&lt;/a&gt;. Open to any use.&lt;/li&gt;
-&lt;/ul&gt;
+## Generic platforms for online organization and assignment allocation in projects.
+Some interesting online platforms for project collaboration and collective work organization.
+- [Trello](https://trello.com/). Project organization with a handy TODO allocation amongst members of the project.
+- [Gitter](https://g.co/kgs/UmwF86). More oriented towards code integration and development process of software, hooks on a GitHub repository.
+- [Slack](https://g.co/kgs/GwLcRE). Open to any use.
 
-&lt;h2 id=&quot;online-ides&quot;&gt;Online IDE’s&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/download&quot;&gt;Microsoft Visual Code &amp;amp; Live Share extension&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://etherpad.org/&quot;&gt;Etherpad&lt;/a&gt; (not tested).&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Online Resources from organizing projects to telematic performances Given the recent turn towards the need of online platforms for multifunctional organization, I outline some of the resources that I have found to be useful, this is not an exhaustive list but rather a suggestion to some platforms that seem to work flawlessly in my workflow.</summary></entry></feed>
+## Online IDE's
+- [Microsoft Visual Code &amp; Live Share extension](https://code.visualstudio.com/download)
+- [Etherpad](https://etherpad.org/) (not tested).</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Online Resources from organizing projects to telematic performances Given the recent turn towards the need of online platforms for multifunctional organization, I outline some of the resources that I have found to be useful, this is not an exhaustive list but rather a suggestion to some platforms that seem to work flawlessly in my workflow.</summary></entry></feed>

@@ -19,7 +19,7 @@ Networked Music Systems research
 I have delivered an array of workshops disseminating my personal research and creative outcomes to the public outlined as follows:
 
 New Instrument for Musical Expression 2020 Royal Conservatory of Birmingham
-- [NIME2020 SuperCollider Workshop](https://nime2020.bcu.ac.uk/supercollidernime2020/)
+- [NIME2020 keynote SuperCollider Workshop](https://nime2020.bcu.ac.uk/keynotes/)
 - [Workshop resources](https://github.com/KonVas/SC-NIME2020)
 
 An Introduction to IPSOS, the Interactive Physics Sonification System

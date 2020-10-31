@@ -65,7 +65,3 @@ _A list of past and ongoing projects_
 - 2010 [Iper Moron](https://vimeo.com/98139897), E-live festival, Utrecht, NL.
 
 - 2010 [Breuk](https://vimeo.com/15463687), Wolpop festival, NL.
-
-
-
-

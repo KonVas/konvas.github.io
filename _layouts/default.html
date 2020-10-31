@@ -5,15 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon_package_v0.16/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon_package_v0.16/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon_package_v0.16/favicon-16x16.png">
+    <link rel="manifest" href="/favicon_package_v0.16/site.webmanifest">
+    <link rel="mask-icon" href="/favicon_package_v0.16/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    
-  {% if site.google_analytics %}
-  {% include analytics.html %}
-  {% endif %}
     
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q5YXQDX16G"></script>
   <script>
@@ -36,9 +40,10 @@
             <li><a href="{{site.baseurl}}/">Home</a></li>
             <li><a href="{{site.baseurl}}/about">About</a></li>
             <li><a href="{{site.baseurl}}/works">Works</a></li>
-            <li><a href="{{site.baseurl}}/writings">Writings</a></li>
             <li><a href="{{site.baseurl}}/teaching">Teaching</a></li>
             <li><a href="{{site.baseurl}}/software">Software</a></li>
+            <li><a href="{{site.baseurl}}/ice">Research</a></li>
+            <li><a href="{{site.baseurl}}/publications">Publications</a></li>
         </ul>
     </nav>
 
@@ -71,6 +76,6 @@
         <p><small>Contact me at <a href="{{ "/" | absolute_url }}">{{ site.email }}</a> </small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <!-- <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script> -->
   </body>
 </html>
