@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://konvas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  KonVas
+repository: "https://github.com/KonVas/konvas.github.io"
 
 # Google analytics
 google_analytics: 'G-Q5YXQDX16G'
