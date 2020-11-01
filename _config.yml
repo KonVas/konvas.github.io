@@ -57,7 +57,7 @@ plugins:
 #   - vendor/ruby/cd
 
 scholar:
-  style: apa6
+  style: apa
   locale: en
 
   sort_by: none
