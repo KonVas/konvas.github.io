@@ -8,7 +8,9 @@ permalink: /works/
 
 _A list of past and ongoing projects_
 
-- 2020 Lick the toad [work in progress](https://konvas.github.io/lick-the-toad/).
+- Symphony in Blue 2.0 [YouTube](https://www.youtube.com/playlist?list=PLiCZTYIqSUAYoMz8NjQssf7sgNOD74zyK) (Based on Kamran's Ince Symphony in Blue:2012) 
+
+- 2020 Lick the toad [work in progress](https://konvas.github.io/lick-the-toad/) [YouTube Videos about LTT](https://www.youtube.com/watch?v=4bMefofOEAk&list=PLiCZTYIqSUAb1J-Iu4lhVwDz6ljKCVj-Whttps://www.youtube.com/watch?v=4bMefofOEAk&list=PLiCZTYIqSUAb1J-Iu4lhVwDz6ljKCVj-W)
 
 - 2020	Map & Fold Festival, Schlachthaus Tübingen, Germany. Performance with [[BEER](https://www.birmingham.ac.uk/facilities/ea-studios/research/beer.aspx), [video](https://www.youtube.com/watch?v=tn0N1R2Ej3Y&list=PLiCZTYIqSUAb4gVwlbsaXl9bKT-V3xRoG&index=3&t=437s)].
 
