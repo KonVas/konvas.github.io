@@ -32,7 +32,7 @@ google_analytics: 'G-Q5YXQDX16G'
 
 # Build settings
 logo: ./images/k-v.png
-theme: vaibhavvikas/jekyll-theme-minimalistic
+theme: jekyll-serif-theme
 plugins:
   - jekyll-scholar
 
