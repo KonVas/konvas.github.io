@@ -23,6 +23,10 @@ Istanbul Coding Ensemble, is a laptop ensemble which was founded on 2018 by Kons
 - [x] 2018 the formation of the group heralded the inauguration of the Holly Church of Kairotic Coding in the Algotteranean region.
 
 ## Events
+- 18 May 2022, Istanbul Technical University, EELISA Symposium [video](https://www.youtube.com/watch?v=rGSq-qR_0BA&t=1382s)
+- International Conference in Live Coding, Valdivia, Chile [program](https://iclc.toplap.org/2021/papers.html)
+- International Symposium in Music Information Retrieval, Online, The Internet [program](https://ismir2021.ismir.net/music/#symphony-in-blue-20)
+- 21 June 2021, University of Bristol, UK. [video](https://youtu.be/vMXCswvoV2E)
 - 10 June 2018. Arter, Istanbul, Turkey [video](https://www.youtube.com/watch?v=fsUI83MMogg&t=1445s)
 - 9 April 2019 Sabanci University, Istanbul, Turkey [event-link](https://fass.sabanciuniv.edu/tr/event-detail?nid=20385)
 - 11 April 2019 ITU/MIAM, The Multivalent Voice in Transcultural Music-making [snippet-video](https://www.facebook.com/itumiam/videos/579657199209878)
