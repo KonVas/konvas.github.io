@@ -8,7 +8,9 @@ permalink: /works/
 
 _A list of past and ongoing projects_
 
-- Symphony in Blue 2.0 [YouTube](https://www.youtube.com/playlist?list=PLiCZTYIqSUAYoMz8NjQssf7sgNOD74zyK) (Based on Kamran's Ince Symphony in Blue:2012) 
+- 2022 _Sonified_: [Lick The Toad](https://www.miam.itu.edu.tr/wp-content/uploads/2022/12/Sonified-Symposium-Program.pdf) in Arter, 10th year anniversary of MIAM Sonic Arts, Arter Gallery Istanbul, Turkey
+
+- 2021 Symphony in Blue 2.0 [YouTube](https://www.youtube.com/playlist?list=PLiCZTYIqSUAYoMz8NjQssf7sgNOD74zyK) (Based on Kamran's Ince Symphony in Blue:2012) 
 
 - 2020 Lick the toad [work in progress](https://konvas.github.io/lick-the-toad/) [YouTube Videos about LTT](https://www.youtube.com/watch?v=4bMefofOEAk&list=PLiCZTYIqSUAb1J-Iu4lhVwDz6ljKCVj-Whttps://www.youtube.com/watch?v=4bMefofOEAk&list=PLiCZTYIqSUAb1J-Iu4lhVwDz6ljKCVj-W)
 
